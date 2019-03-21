@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=The Doll Forum 
+Exec=/home/ki5jyd/bin/tdfdiag.sh
+Icon=/home/ki5jyd/bin/worstsiteonthenet.png
+
